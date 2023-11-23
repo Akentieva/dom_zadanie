@@ -20,5 +20,16 @@ Linux, MacOs
 ``sh
 ``
 
+Удаление фаила Windows:
+``sh
+dei <filename>
+``
+Linux, MacOs
+``sh
+rm <filename>
+``
+
+
+
 
 
