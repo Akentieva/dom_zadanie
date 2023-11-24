@@ -7,4 +7,8 @@ git branch
 git checkout <имя ветки>
 ``````
 перемещение по веткам
->>>>>>> branch_comand
+
+``````sh
+git branch <имя_ветки>
+
+создание новой ветки
