@@ -1,3 +1,6 @@
+text2
+
+
 ``````sh
 git branch
 ``````
@@ -7,6 +10,4 @@ git branch
 git checkout <имя ветки>
 ``````
 перемещение по веткам
- 
-text
-
+branch_comand
