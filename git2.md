@@ -21,3 +21,8 @@ git merge
 git branch -d <имя ветки>
 ``````
 удаление ветки
+
+``````sh 
+git log --oneline --graph
+``````
+просмотр веток 
